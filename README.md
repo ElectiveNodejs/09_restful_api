@@ -1,5 +1,5 @@
 # 09 Restful Api
-<img src="/img/api_orders.png" > 
+<img src="/img/api_consumers.png" > 
 
 
 ## Literature
