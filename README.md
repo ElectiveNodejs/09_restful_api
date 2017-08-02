@@ -1,5 +1,5 @@
 # 09 Restful Api
-<img src="/img/one-does-not-simply-explain-restful-api.jpg" > 
+<img src="/img/one-does-not-simply-explain-restful-api.jpg" width="100%"> 
 
 
 ## Literature
