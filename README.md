@@ -1,5 +1,5 @@
 # 09 Restful Api
-<img src="/img/api_consumers.png" > 
+<img src="/img/one-does-not-simply-explain-restful-api.png" > 
 
 
 ## Literature
