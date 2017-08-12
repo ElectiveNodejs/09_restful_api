@@ -4,3 +4,4 @@
 
 ## Literature
 * [RESTful Best Practices](http://www.restapitutorial.com/media/RESTful_Best_Practices-v1_1.pdf)
+* [JSON](https://www.w3schools.com/js/js_json_intro.asp)
